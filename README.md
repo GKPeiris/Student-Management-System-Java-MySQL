@@ -31,9 +31,9 @@ Compile and run the StudentManagementSystem.java file in your preferred Java IDE
 
 # Usage
 
-Add Student: Fill out the form and click "Add".
-View Students: Click "View All" to list all students.
-Update Student: Select a student, modify the details, and click "Update".
-Delete Student: Select a student and click "Delete".
-Search Student: Enter search criteria and click "Search".
+- Add Student: Fill out the form and click "Add".
+- View Students: Click "View All" to list all students.
+- Update Student: Select a student, modify the details, and click "Update".
+- Delete Student: Select a student and click "Delete".
+- Search Student: Enter search criteria and click "Search".
 
